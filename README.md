@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Voller</h1>
-<h3 align="center">Um desenvolvedor full stack web amante de tecnologia</h3>
+<h3 align="center">Um desenvolvedor fullstack web que adora tecnologia.</h3>
 <img align="left" alt="coding" width="1000" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=voller-96&label=Profile%20views&color=0e75b6&style=flat" alt="voller-96" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **voller.silas@gmail.com**
 
-- ⚡ Fun fact **Eu gosto de filmes e séries**
+- ⚡ Fun fact : **Eu gosto de filmes e séries**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
