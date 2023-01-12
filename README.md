@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **voller.silas@gmail.com**
 
-- ⚡ Fun fact : **Eu gosto de filmes e séries**
+- ⚡ Fun fact : **I like movies and series**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
