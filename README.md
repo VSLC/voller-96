@@ -29,4 +29,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voller-96)](https://github.com/voller-96/github-readme-stats)
   
 </div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voller-96&" alt="voller-96" /></p>
